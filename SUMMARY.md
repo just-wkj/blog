@@ -2,6 +2,6 @@
 
 * [介绍](README.md)
 * [php](php.md)
-* [shell](shell)
-* [工具](shell)
+* [shell](shell.md)
+* [工具](工具.md)
 
