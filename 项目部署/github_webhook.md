@@ -1,4 +1,4 @@
-# github webhook 自动部署
+# github webhook部署
 
 平时使用自动部署,大多是直接git或者jenkins加git来实现,具体就是定时的去pull代码,发现有代码就去执行部署的一系列操作,webhook很少用,觉得有些麻烦
 
