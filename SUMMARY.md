@@ -3,6 +3,8 @@
 * [介绍](README.md)
 * [php](php.md)
 * [shell](shell.md)
+    * [自用脚本](scripts.md)
+        * [gitbook自动更新](shell/scripts/auto_blog.md)
 * [工具](tools.md)
     * [tmux](tools/tmux.md)
     * [autojump](tools/autojump.md)
