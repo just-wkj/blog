@@ -9,4 +9,6 @@
 * [项目部署](deploy.md)
     * [github webhook部署](deploy/github_webhook.md)
     * [gitbook 自动部署](deploy/gitbook_deploy.md)
+* git
+    * [远程仓库设置](git/多远程仓库.md)
 
