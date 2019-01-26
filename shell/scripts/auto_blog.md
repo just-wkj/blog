@@ -1,6 +1,10 @@
 # gitbook自动更新
 
 ```bash
+# author: wkj
+# date: 2019-01-24
+# desc: github同步数据,编译成静态文件,并推送到gitee仓库中
+
 #!/bin/bash
 GIT_DIR="/home/wwwroot/blog.justwkj.com"
 GIT_TMP_LOG="./git_update.log"
