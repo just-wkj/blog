@@ -7,3 +7,7 @@
 
 ### 关于博客
 > 此博客是使用gitbook搭建的,代码全托管在github上,也方便自己查看日志
+
+### 博客地址
+-  <https://blog.justwkj.com/>  
+-  (旧的博客)<https://blog.moyixi.cn/>
