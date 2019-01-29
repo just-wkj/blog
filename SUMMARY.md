@@ -5,6 +5,7 @@
 * [shell](shell.md)
     * [自用脚本](scripts.md)
         * [gitbook自动更新](shell/scripts/auto_blog.md)
+        * [快速操作alias](shell/scripts/alias.md)
 * [工具](tools.md)
     * [tmux](tools/tmux.md)
     * [autojump](tools/autojump.md)
