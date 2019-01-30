@@ -15,4 +15,6 @@
     * [gitbook 自动部署](deploy/gitbook_deploy.md)
 * git
     * [远程仓库设置](git/多远程仓库.md)
+* [nginx](nginx.md)
+    * [nginx rewrite 重写](nginx/rewrite.md)
 
