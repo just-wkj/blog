@@ -33,6 +33,7 @@
      last不终止重写后的url匹配，即新的url会再从server走一遍匹配流程，而break终止重写后的匹配
       break和last都能组织继续执行后面的rewrite指令  
       下面是示例
+      
       ```nginx
         server {
             listen 80 default_server;
