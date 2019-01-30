@@ -10,4 +10,5 @@
 
 ### 博客地址
 -  <https://blog.justwkj.com/>  
+- github 地址 <https://github.com/just-wkj/blog>
 -  (旧的博客)<https://blog.moyixi.cn/>
