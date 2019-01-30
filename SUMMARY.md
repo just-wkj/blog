@@ -17,4 +17,5 @@
     * [远程仓库设置](git/多远程仓库.md)
 * [nginx](nginx.md)
     * [nginx rewrite 重写](nginx/rewrite.md)
+    * [nginx 日志轮询切割](nginx/nginx_auto_log.md)
 
