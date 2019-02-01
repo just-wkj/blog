@@ -29,3 +29,6 @@ phpstorm下面有两种方式调试
    ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzqrex8ctaj30rt06b74h.jpg)
     点击右上角的 show http history可以查看请求的日志,日志里面也有返回的值都会保存为文件,也可以在历史记录中再次请求
     ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzqrhe6521j30d605b748.jpg)
+    
+--- 
+官方文档 <https://www.jetbrains.com/help/phpstorm/http-client-in-product-code-editor.html>
