@@ -20,4 +20,6 @@
     * [nginx rewrite 重写](nginx/rewrite.md)
     * [nginx 日志轮询切割](nginx/nginx_auto_log.md)
     * [nginx proxy_pass使用](nginx/nginx_proxy_pass.md)
+* [ssh](ssh.md)
+    * [ssh config](ssh/config.md)
 
