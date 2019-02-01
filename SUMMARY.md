@@ -25,4 +25,7 @@
     * [ssh config](ssh/config.md)
 * [linux](linux.md)
     * [crontab](linux/crontab.md)
+* [编辑器](编辑器.md)
+    * [phpstorm](编辑器/phpstorm.md)
+        * [http调试](编辑器/phpstorm/http.md)
 
