@@ -24,6 +24,7 @@
     * [nginx proxy_pass使用](nginx/nginx_proxy_pass.md)
 * [ssh](ssh.md)
     * [ssh config](ssh/config.md)
+    * [ssh 端口修改](ssh/edit_port.md)
 * [linux](linux.md)
     * [crontab](linux/crontab.md)
     * [grep](linux/grep.md)
