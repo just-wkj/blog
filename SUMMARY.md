@@ -18,6 +18,8 @@
 * git
     * [远程仓库设置](git/多远程仓库.md)
     * [git ignore 去除已经加入仓库的文件](git/rm_ignore.md)
+    * [git多个远程库提交 公钥生成 tag global全局信息设置](git/remote_global.md)
+    * [gogs搭建Git服务平台](git/gogs.md)
 * [nginx](nginx.md)
     * [nginx rewrite 重写 apache 重写](nginx/rewrite.md)
     * [nginx 日志轮询切割](nginx/nginx_auto_log.md)
