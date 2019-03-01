@@ -1,15 +1,15 @@
 # gogs搭建Git服务平台
 
 [gogs git服务][1]
-## 二进制包没有app.ini 去github上找一个
+### 二进制包没有app.ini 去github上找一个
 [app.ini 地址][2]
 
-#安装git
+###安装git
     yum install -y git
     git --version
     git version 1.7.1
 
-#安装mysql-server
+###安装mysql-server
     yum install -y mysql-server
     mysql --version
     mysql  Ver 14.14 Distrib 5.1.73, for redhat-linux-gnu (x86_64) using readline 5.1
