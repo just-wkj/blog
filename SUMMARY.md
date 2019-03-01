@@ -30,4 +30,6 @@
 * [编辑器](编辑器.md)
     * [phpstorm](编辑器/phpstorm.md)
         * [http调试](编辑器/phpstorm/http.md)
+* [杂记](杂记.md)
+    * [服务器被攻击小计](杂记/被攻击小计.md)
 
