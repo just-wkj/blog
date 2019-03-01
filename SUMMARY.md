@@ -3,6 +3,7 @@
 * [介绍](README.md)
 * [php](php.md)
     * [tp5漏洞修复](php/tp5_bug_fix.md)
+    * [简单的手机号加密](php/phone_encrypt.md)
 * [shell](shell.md)
     * [自用脚本](scripts.md)
         * [gitbook自动更新](shell/scripts/auto_blog.md)
