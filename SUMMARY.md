@@ -33,4 +33,6 @@
         * [phpstorm 简单设置](编辑器/phpstorm/setting.md)
 * [杂记](杂记.md)
     * [服务器被攻击小计](杂记/被攻击小计.md)
+* [mysql](mysql.md)
+    * [mysql 数据备份与恢复](MySQL/bak.md)
 
