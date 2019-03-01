@@ -64,3 +64,19 @@
     - -d和!-d用来判断是否存在目录
     - -e和!-e用来判断是否存在文件或目录
     - -x和!-x用来判断文件是否可执行
+    
+5. apache重写
+> 很少使用apache了,把之前用过的部分配置贴出来
+    
+```apacheconfig
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+#获取参数
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /index.php?%{QUERY_STRING}
+```
