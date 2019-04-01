@@ -1,5 +1,8 @@
 # react
 
+最近看到慕课上的react视频不错,学习一下,学习的代码 <https://gitee.com/justwkj/react-imooc>
+
+---
 1. React脚手架安装使用
 ```bash
 npm install -g create-react-app
