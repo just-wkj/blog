@@ -6,3 +6,9 @@ mock.js 是一个快速开发,模拟接口数据的工具,官网地址 <http://m
 语法比较新颖,比较简洁明了
 
 配合 easy-mock <https://easy-mock.com/> 使用,可以快速模拟接口
+
+mock文档上看到可以生成自定义的图片,这个工具不错,方便生成特定大小的图占位使用
+这是官网<https://dummyimage.com/>
+![](https://ws1.sinaimg.cn/large/0063sFGSgy1g2kemxa8s6j30o90k3mzb.jpg)
+生成的链接地址 <https://dummyimage.com/600x400/50B34/fff.jpg&text=moyixi>
+![](https://dummyimage.com/600x400/50B34/fff.jpg&text=moyixi)_
