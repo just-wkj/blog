@@ -33,6 +33,7 @@
 * [linux](linux.md)
     * [crontab](linux/crontab.md)
     * [grep](linux/grep.md)
+    * [修改host](linux/edit_host.md)
 * [编辑器](编辑器.md)
     * [phpstorm](编辑器/phpstorm.md)
         * [http调试](编辑器/phpstorm/http.md)
