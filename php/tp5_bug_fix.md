@@ -10,7 +10,7 @@
         > 如果你使用composer安装，并且一直保持最新版本使用的话，执行 composer update topthink/framework
     2. 手动修复
         - thinkphp5.0 版本  
-            a. 需要修改 think\App类的module方法  553行左右 ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzpitawzz3j30pt0560t4.jpg)
+            a. 需要修改 think\App类的module方法  553行左右 ![](http://img.justwkj.com/20190529091643.png)
              修复代码如下: 
             ```php
                 // 获取控制器名
@@ -22,7 +22,7 @@
             ```
         - thinkphp5.1 版本  
             a. 需要修改 think\route\dispatch\Url类的parseUrl方法 61行左右
-            ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzpj5rntirj30o807caal.jpg)
+            ![](http://img.justwkj.com/20190529091710.png)
             修复代码如下:
 
             ```php
@@ -39,9 +39,9 @@
             ```
 3. method漏洞修复
     > 需要修改 think\Request类的method方法  508行左右
-    > ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzpjjtbuqpj30zs0f075p.jpg)
+    > ![](http://img.justwkj.com/20190529091722.png)
     > 修改为:
-    > ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzpjkqtxqej31040ermyu.jpg)
+    > ![](http://img.justwkj.com/20190529091732.png)
     > 修复代码如下:   
     ```php
       //$this->method = strtoupper($_POST[Config::get('var_method')]);

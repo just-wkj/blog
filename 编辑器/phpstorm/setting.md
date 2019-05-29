@@ -38,9 +38,9 @@ settings->editor->file and code templates->include->Live Templates->PHP
 ![请输入图片描述][6]
 
 
-  [1]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds23pkqjmj30p60bb0ui.jpg
-  [2]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds24d7kmbj30u50fl40w.jpg
-  [3]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds1yhps5aj30uy0k3juz.jpg
-  [4]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds1zdk6e4j30o905jmxd.jpg
-  [5]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds210zfa3j30k80apjsb.jpg
-  [6]: http://ww1.sinaimg.cn/large/0063sFGSgy1fds29hjlufj30fq0en0tg.jpg
+  [1]: http://img.justwkj.com/20190529092700.png
+  [2]: http://img.justwkj.com/20190529092708.png
+  [3]: http://img.justwkj.com/20190529092717.png
+  [4]: http://img.justwkj.com/20190529092726.png
+  [5]: http://img.justwkj.com/20190529092733.png
+  [6]: http://img.justwkj.com/20190529092741.png

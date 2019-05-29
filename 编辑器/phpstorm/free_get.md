@@ -9,10 +9,10 @@ jetbrains 系列的编辑器都是一个很精品的工具,每年收费太贵了
 ### 1. 填写开源项目信息
 首先要有一个开源项目,要是主要开发者,并且经常更新的项目比较容易审核通过
 地址: <https://www.jetbrains.com/shop/eform/opensource?product=ALL>  
-填写完之后,会收到邮件,之后就是等审核结果了 ![](https://ws1.sinaimg.cn/large/0063sFGSgy1g2349nib03j30xy0ad750.jpg)
+填写完之后,会收到邮件,之后就是等审核结果了 ![](http://img.justwkj.com/20190529092123.png)
 
 ### 2. 审核通过之后会收到邮件
 可以看到,第二天就给了回复邮件,审核通过,根据提示可以创建免费账户,有效期一年(可以续)
-![](https://ws1.sinaimg.cn/large/0063sFGSgy1g234bbhrfaj317z09ajtf.jpg)
+![](http://img.justwkj.com/20190529092133.png)
 
 ### 3. jetbrains全家桶都可以下载使用了

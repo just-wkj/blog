@@ -11,6 +11,6 @@
       xdebug.remote_autostart = 1  
       ; 远程调试端口,默认9000 可以自行修改  
       xdebug.remote_port =  9001  
-3. 重启php,查看php配置,如图所示,则已经生效![](https://ws1.sinaimg.cn/large/0063sFGSgy1g1n4vocu20j30x30bpgmc.jpg)
-4. 打开本地项目,添加断点 ![](https://ws1.sinaimg.cn/large/0063sFGSgy1g1n4xfd3chj30hf06qq3j.jpg)![](https://ws1.sinaimg.cn/large/0063sFGSgy1g1n52r6fafj30u40fxq4i.jpg)
-    浏览器直接访问即可,可以看到phpstorm已经有调试信息![](https://ws1.sinaimg.cn/large/0063sFGSgy1g1n542s4rkj30si0fxwgg.jpg)
+3. 重启php,查看php配置,如图所示,则已经生效![](http://img.justwkj.com/20190529091750.png)
+4. 打开本地项目,添加断点 ![](http://img.justwkj.com/20190529091802.png)![](http://img.justwkj.com/20190529091816.png)
+    浏览器直接访问即可,可以看到phpstorm已经有调试信息![](http://img.justwkj.com/20190529091826.png)

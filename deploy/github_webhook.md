@@ -7,7 +7,7 @@
 下面是具体步骤:
 
 1. github创建仓库,在webhook页面设置你的回调地址,并且设置你的秘钥
-   ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzi7gmctpmj313u0wkgqf.jpg)
+   ![](http://img.justwkj.com/20190529091345.png)
 
 2. 设置好之后,我们来写php的回调处理代码
 
@@ -28,7 +28,7 @@
    	http_response_code(404);
    ```
 
-3. 验证是否成功,点击 Redeliver ![](https://ws1.sinaimg.cn/large/0063sFGSgy1fzi7qjwkboj30xs09mwf3.jpg),发现响应是200, 而且生成了临时文件 blog\_justwkj\_com.txt,此时则说明webhook执行成功了.如果你的php没有限制系统命令执行函数如:shell_exec,则可以直接在签名匹配成功之后,执行我们相应的脚本即可.
+3. 验证是否成功,点击 Redeliver ![](http://img.justwkj.com/20190529091405.png),发现响应是200, 而且生成了临时文件 blog\_justwkj\_com.txt,此时则说明webhook执行成功了.如果你的php没有限制系统命令执行函数如:shell_exec,则可以直接在签名匹配成功之后,执行我们相应的脚本即可.
 
 4. 为了安全起见,我在服务器上限制了php执行系统的命令,所以根据临时文件的内容来判断是否有推送.如果有推送,则文件内容为时间戳,我们执行部署脚本,再把文件清空,等待再次收到推送,写了一个简单的shell脚本,以守护进程的方式执行,即可完成部署的操作
 

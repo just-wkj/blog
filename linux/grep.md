@@ -11,4 +11,4 @@ grep 快速查询和过滤数据
     grep -Rc --include="*.log"  test
     ```
     结果如下:  
-    ![](https://ws1.sinaimg.cn/large/0063sFGSgy1g0m97ijn9xj309f07ot8q.jpg)
+    ![](http://img.justwkj.com/20190529091503.png)
