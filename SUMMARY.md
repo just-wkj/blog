@@ -52,4 +52,6 @@
     * [webpack](前端/webpack/webpack.md)
     * [react](前端/react/react.md)
     * [mock](前端/mock/mock.md)
+* APUE学习
+    * [mac 下环境搭建](apue/mac_env.md)
 
