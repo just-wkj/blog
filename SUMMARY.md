@@ -42,6 +42,7 @@
         * [开源项目申请免费账户](编辑器/phpstorm/free_get.md)
         * [phpstorm 简单设置](编辑器/phpstorm/setting.md)
         * [phpstorm terminal 设置git bash](编辑器/phpstorm/gitbash.md)
+        * [phpstorm 为静态方法添加提示](编辑器/phpstorm/call_notice.md)
 * [杂记](杂记.md)
     * [服务器被攻击小计](杂记/被攻击小计.md)
     * [项目工程化](杂记/项目工程化.md)
