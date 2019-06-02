@@ -27,7 +27,7 @@ main(int argc, char *argv[])
 
 其中apue.h头文件诗作者自定义的,需要去找到这个源码才可以.
 
-打开网站<http://www.apuebook.com](https://link.jianshu.com/?t=http://www.apuebook.com>,找到版本对应的代码下载,
+打开网站<http://www.apuebook.com>,找到版本对应的代码下载,
 
 或者直接下载 <http://www.apuebook.com/src.3e.tar.gz>
 
