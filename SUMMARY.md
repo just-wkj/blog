@@ -15,6 +15,7 @@
     * [tmux](tools/tmux.md)
     * [autojump](tools/autojump.md)
     * [ag](tools/ag.md)
+    * [cmd host快速添加](tools/cmd_host_add.md)
 * [项目部署](deploy.md)
     * [github webhook部署](deploy/github_webhook.md)
     * [gitbook 自动部署](deploy/gitbook_deploy.md)
