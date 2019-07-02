@@ -50,6 +50,8 @@
     * [一次项目上线的思考](杂记/一次项目上线的思考.md)
 * [mysql](mysql.md)
     * [mysql 数据备份与恢复](MySQL/bak.md)
+* [redis](redis.md)
+    * [redis批量删除key](Redis/redis_mul_del.md)
 * [前端](前端.md)
     * [浮动理解](前端/浮动理解.md)
     * [webpack](前端/webpack/webpack.md)
