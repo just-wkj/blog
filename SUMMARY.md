@@ -7,6 +7,7 @@
     * [composer Composer\Downloader\TransportException](php/composer_TransportException.md)
     * [xdebug调试](php/xdebug.md)
     * [依赖注入](php/di.md)
+    * [构建自己的composer包](php/composer/readme.md)
 * [shell](shell.md)
     * [自用脚本](scripts.md)
         * [gitbook自动更新](shell/scripts/auto_blog.md)
