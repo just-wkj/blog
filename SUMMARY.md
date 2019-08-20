@@ -14,6 +14,7 @@
         * [gitbook自动更新](shell/scripts/auto_blog.md)
         * [快速操作alias](shell/scripts/alias.md)
         * [justsplit 快速操作一列数据](shell/scripts/justsplit.md)
+        * [shell脚本切换root](shell/scripts/sudoroot.md)
 * [工具](tools.md)
     * [tmux](tools/tmux.md)
     * [autojump](tools/autojump.md)
