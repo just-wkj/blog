@@ -38,6 +38,7 @@
     * [ssh config](ssh/config.md)
     * [ssh 端口修改](ssh/edit_port.md)
 * [linux](linux.md)
+    * [安装centos7](linux/install.md)
     * [crontab](linux/crontab.md)
     * [grep](linux/grep.md)
     * [修改host](linux/edit_host.md)
