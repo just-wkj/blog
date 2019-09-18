@@ -16,6 +16,7 @@
         * [快速操作alias](shell/scripts/alias.md)
         * [justsplit 快速操作一列数据](shell/scripts/justsplit.md)
         * [shell脚本切换root](shell/scripts/sudoroot.md)
+        * [自动备份数据库](shell/scripts/bak_db.md)
 * [工具](tools.md)
     * [tmux](tools/tmux.md)
     * [autojump](tools/autojump.md)
