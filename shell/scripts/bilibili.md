@@ -12,12 +12,12 @@ P=0
 
 usage(){
 	echo "Usage: 
-        -v number  视频文件编号, eg: -v 55555555
+        -v number  视频文件编号, eg: -v 57721377
         -p number 下载某个章节  eg: -p 1
         -n number 所有视频章节 eg: -n 20
 
-        demo: ${0} -v 55555555 -n 20 下载 av55555555 1-20个章节的视频
-        demo: ${0} -v 55555555 -p 2 下载 av55555555  第2个章节的视频
+        demo: ${0} -v 57721377 -n 20 下载 av57721377 1-20个章节的视频
+        demo: ${0} -v 57721377 -p 2 下载 av57721377  第2个章节的视频
     " 
 	exit
 }
@@ -42,15 +42,15 @@ else
 fi 
 
 donwnloadOne(){
-    echo "you-get  https://www.bilibili.com/video/av${VIDEO}?p=${1}"
-    you-get  https://www.bilibili.com/video/av${VIDEO}?p=${1}
+    echo "you-get  ${BILIBILI_URL}${VIDEO}?p=${1}"
+    you-get  ${BILIBILI_URL}${VIDEO}?p=${1}
 }
 
 downloadSome(){
     for((i=1;i<=${1};i++));
     do
-    echo "you-get  https://www.bilibili.com/video/av${VIDEO}?p=${i}"
-    you-get  https://www.bilibili.com/video/av${VIDEO}?p=${i}
+    echo "you-get  ${BILIBILI_URL}${VIDEO}?p=${i}"
+    you-get  ${BILIBILI_URL}${VIDEO}?p=${i}
     done
 }
 
