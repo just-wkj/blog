@@ -39,6 +39,8 @@
 ###5. 联网设置
 编辑
 ```bash
+vi /etc/sysconfig/network-scripts/ifcfg-enp0s3 # 不同的网卡名臣可能不同
+
 TYPE=Ethernet
 BOOTPROTO=static
 DEFROUTE=yes
