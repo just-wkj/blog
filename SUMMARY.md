@@ -11,6 +11,7 @@
     * [tp5 with关联预载入](php/tp5/with关联预载入.md)
     * [php不同版本语法检查](php/PHPCompatibility.md)
     * [php安装oracle](php/php_oracle.md)
+    * [企业微信钉钉等消息推送](php/push.md)
 * [shell](shell.md)
     * [自用脚本](scripts.md)
         * [gitbook自动更新](shell/scripts/auto_blog.md)
