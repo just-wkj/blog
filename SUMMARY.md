@@ -27,6 +27,7 @@
     * [ag](tools/ag.md)
     * [cmd host快速添加](tools/cmd_host_add.md)
     * [burpsuite](tools/burpsuite.md)
+    * [alfred快读执行终端命令](tools/alfred_exec_term.md)
 * [项目部署](deploy.md)
     * [github webhook部署](deploy/github_webhook.md)
     * [gitbook 自动部署](deploy/gitbook_deploy.md)
