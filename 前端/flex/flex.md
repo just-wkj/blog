@@ -104,3 +104,192 @@
 </html>
 
 ```
+
+![](http://img.justwkj.com/20211109101343.png)
+```HTML
+<STYLE>
+    .DEMO0 {
+        MARGIN: 0 AUTO;
+        WIDTH: 700PX;
+        HEIGHT: 30%;
+        BACKGROUND: CADETBLUE;
+        DISPLAY: FLEX;
+        /*主轴默认*/
+        FLEX-DIRECTION: ROW;
+        JUSTIFY-CONTENT: CENTER;
+        ALIGN-ITEMS: CENTER;
+    }
+
+    .DEMO0 SPAN {
+        WIDTH: 100PX;
+        HEIGHT: 100PX;
+        BACKGROUND: PINK;
+        MARGIN-LEFT: 10PX;
+    }
+
+    .DEMO1 {
+        MARGIN: 0 AUTO;
+        WIDTH: 700PX;
+        HEIGHT: 30%;
+        BACKGROUND: CADETBLUE;
+        DISPLAY: FLEX;
+        /*主轴默认*/
+        FLEX-DIRECTION: ROW;
+        /*FLEX-DIRECTION: ROW-REVERSE;*/
+        /*FLEX-DIRECTION: COLUMN;*/
+        /*FLEX-DIRECTION: COLUMN-REVERSE;*/
+
+        JUSTIFY-CONTENT: FLEX-START;
+        /*//FLEX 默认不换行,如果放不下则缩小子元素宽度*/
+        FLEX-WRAP: WRAP;
+        /*ALIGN-ITEMS: CENTER;*/
+
+        /*有了换行需要使用ALIGN-CONTENT*/
+        ALIGN-CONTENT: SPACE-AROUND;
+    }
+
+    .DEMO1 SPAN {
+        WIDTH: 200PX;
+        HEIGHT: 100PX;
+        BACKGROUND: PINK;
+        MARGIN-LEFT: 10PX;
+    }
+
+    .DEMO2 {
+        WIDTH: 80%;
+        HEIGHT: 150PX;
+        MARGIN: 0 AUTO;
+        BACKGROUND: #CCC;
+        DISPLAY: FLEX;
+    }
+
+    .DEMO2 SPAN:NTH-CHILD(1) {
+        BACKGROUND: RED;
+        WIDTH: 150PX;
+    }
+
+    .DEMO2 SPAN:NTH-CHILD(2) {
+        BACKGROUND: YELLOWGREEN;
+        /*//剩余空间分配*/
+        FLEX: 1;
+    }
+
+    .DEMO2 SPAN:NTH-CHILD(3) {
+        BACKGROUND: GREEN;
+        WIDTH: 150PX;
+    }
+
+    .DEMO3 {
+        WIDTH: 80%;
+        HEIGHT: 150PX;
+        MARGIN: 0 AUTO;
+        BACKGROUND: #CCC;
+        DISPLAY: FLEX;
+    }
+
+    .DEMO3 SPAN {
+        /*子元素不设置宽度,剩余空间是全部,都设置FLEX1,则表示平均分配*/
+        FLEX: 1;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO4 {
+        WIDTH: 80%;
+        HEIGHT: 150PX;
+        MARGIN: 0 AUTO;
+        BACKGROUND: #CCC;
+        DISPLAY: FLEX;
+    }
+
+    .DEMO4 SPAN:NTH-CHILD(1) {
+        FLEX: 1;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO4 SPAN:NTH-CHILD(2) {
+        FLEX: 2;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO4 SPAN:NTH-CHILD(3) {
+        FLEX: 4;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO4 SPAN:NTH-CHILD(4) {
+        WIDTH: 100PX;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO5 {
+        WIDTH: 80%;
+        HEIGHT: 300PX;
+        MARGIN: 0 AUTO;
+        BACKGROUND: #CCC;
+        DISPLAY: FLEX;
+        JUSTIFY-CONTENT: CENTER;
+        ALIGN-ITEMS: FLEX-END;
+    }
+
+    .DEMO5 SPAN {
+        WIDTH: 100PX;
+        HEIGHT: 100PX;
+        BORDER: 1PX SOLID RED;
+    }
+
+    .DEMO5 SPAN:NTH-CHILD(2) {
+        ALIGN-SELF: FLEX-START;
+    }
+
+    .DEMO5 SPAN:NTH-CHILD(4) {
+        /*排序默认0,越小越靠左*/
+        ORDER: -1;
+    }
+</STYLE>
+<P>1. 简单DEMO对齐</P>
+<DIV CLASS="DEMO0">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+</DIV>
+
+<P>1. 简单DEMO</P>
+<DIV CLASS="DEMO1">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+    <SPAN>4</SPAN>
+    <SPAN>5</SPAN>
+</DIV>
+
+<P>2.两侧固定,中间占满</P>
+<P CLASS="DEMO2">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+</P>
+
+<P>3.平均三等分</P>
+<P CLASS="DEMO3">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+</P>
+<P>4.自定义大小切分</P>
+<P CLASS="DEMO4">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+    <SPAN>4</SPAN>
+</P>
+
+<P>5.子元素单独排列</P>
+<P CLASS="DEMO5">
+    <SPAN>1</SPAN>
+    <SPAN>2</SPAN>
+    <SPAN>3</SPAN>
+    <SPAN>4</SPAN>
+</P>
+
+
+```
