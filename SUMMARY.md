@@ -52,6 +52,7 @@
     * [重复统计 sort uniq](linux/sort_uniq.md)
 * [编辑器](编辑器.md)
     * [idea新版本中文回退到英文](编辑器/idea新版本中文回退到英文.md)
+    * [idea热部署JRebel](编辑器/idea热部署JRebel.md)
     * [phpstorm](编辑器/phpstorm.md)
         * [http调试](编辑器/phpstorm/http.md)
         * [开源项目申请免费账户](编辑器/phpstorm/free_get.md)
