@@ -77,6 +77,7 @@
     * [react](前端/react/react.md)
     * [mock](前端/mock/mock.md)
     * [flex](前端/flex/flex.md)
+    * [打包构建报错](前端/npm_build_error.md)
 * APUE学习
     * [mac 下环境搭建](apue/mac_env.md)
 * Docker
