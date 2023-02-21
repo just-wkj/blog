@@ -94,6 +94,7 @@
     * [江苏联通10元宽带](unicom/js_10.md)
 * [读书](读书.md)
 * [华为认证](华为认证.md)
-  * [HCIP关键词](HCIP/HCIP关键词.md)
-* [导航nv](导航nav.md)
+    * [HCIP关键词](HCIP/HCIP关键词.md)
+* [导航nav](导航nav.md)
+    * [just导航](nav/just_nav.md)
 
