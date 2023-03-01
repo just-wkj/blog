@@ -69,6 +69,12 @@
         "link": "https://www.v2ex.com/"
       },
       {
+        "icon": "https://dummyimage.com/80x80/50B34/fff.jpg&text=头条",
+        "name": "头条",
+        "desc": "头条",
+        "link": "https://www.toutiao.com/"
+      },
+      {
         "icon": "https://dummyimage.com/80x80/50B34/fff.jpg&text=centos",
         "name": "网址导航",
         "desc": "网址导航",
