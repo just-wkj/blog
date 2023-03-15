@@ -68,6 +68,19 @@
         "desc": "v2ex",
         "link": "https://www.v2ex.com/"
       },
+
+      {
+        "icon": "https://dummyimage.com/80x80/50B34/fff.jpg&text=chatgpt",
+        "name": "chatgpt_moyixi",
+        "desc": "chatgpt_moyixi",
+        "link": "http://ai.justwkj.com:3002/#/chat/1002"
+      },
+      {
+        "icon": "https://dummyimage.com/80x80/50B34/fff.jpg&text=freegpt",
+        "name": "freegpt",
+        "desc": "freegpt",
+        "link": "https://freegpt.one/"
+      },
       {
         "icon": "https://dummyimage.com/80x80/50B34/fff.jpg&text=头条",
         "name": "头条",
@@ -184,6 +197,7 @@
     ]
   }
 }
+
 
 
 ```
