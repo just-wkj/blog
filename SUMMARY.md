@@ -101,4 +101,5 @@
     * [卡基](流量/卡基/卡圈.md)
 * PMP
     * [PMP](PMP/PMP.md)
-
+* Mac软件
+  * [QuickTimePalyer提取音频](Mac软件/QuickTimePalyer提取音频.md)
