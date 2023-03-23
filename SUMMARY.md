@@ -21,6 +21,7 @@
         * [shell脚本切换root](shell/scripts/sudoroot.md)
         * [自动备份数据库](shell/scripts/bak_db.md)
         * [B站视频下载脚本](shell/scripts/bilibili.md)
+        * [自动挂载脚本](shell/scripts/auto_mount.md)
     * [登录服务器并执行脚本](login_exec_shell.md)
     * [windows微信多开](windows_open_wechat.md)
 * [工具](tools.md)
