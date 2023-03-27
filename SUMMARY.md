@@ -73,6 +73,7 @@
     * [程序员怎样结合平时工作中的项目修炼自己的技能](杂记/程序员怎样结合平时工作中的项目修炼自己的技能.md)
     * [知乎文章](杂记/知乎文章.md)
     * [浏览器](浏览器/chrome访问本地https页面无法打开解决办法.md)
+    * [chatgpt](chatgpt/chatgpt.md)
 * [mysql](mysql.md)
     * [mysql 数据备份与恢复](MySQL/bak.md)
     * [mysql 开放外部访问](MySQL/open_viisit.md)
