@@ -4,3 +4,7 @@
 所以在github找到了一个开源项目 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ,然后自己改了一下,放到自己的服务器上.
 
 项目地址: <http://ai.justwkj.com:3002/#/chat/1002>
+
+```shell
+docker run --name chatgpt-web -d -p 127.0.0.1:3002:3002 --env OPENAI_API_KEY=your_api_key chatgpt-web
+```
