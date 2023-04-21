@@ -6,5 +6,5 @@
 项目地址: <http://ai.justwkj.com:3002/#/chat/1002>
 
 ```shell
-docker run --name chatgpt-web -d -p 127.0.0.1:3032:3002 --env OPENAI_API_KEY=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 chatgpt-web
+docker run --name chatgpt-web -d -p 127.0.0.1:3032:3002 --env OPENAI_API_KEY=sk-1xxxxx chatgpt-web
 ```
