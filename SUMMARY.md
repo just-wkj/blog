@@ -109,3 +109,6 @@
   * [QuickTimePalyer提取音频](Mac软件/QuickTimePalyer提取音频.md)
 * 未整理文章
   * [如何使用JavaScript创建动态Web应用](未整理文章/如何使用JavaScript创建动态Web应用.md)
+* jb_code
+  * [jb_code](jb_code/jb_code.md)
+  * [ppt_演讲](jb_code/ppt_演讲.md)
