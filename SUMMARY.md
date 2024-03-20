@@ -111,6 +111,7 @@
   * [如何使用JavaScript创建动态Web应用](未整理文章/如何使用JavaScript创建动态Web应用.md)
 * GPT
   * [如何基于coze的tg聊天机器人](gpt/如何基于coze的tg聊天机器人.md)
+  * [如何更好地使用Prompt提升机器人回答问题的质量](gpt/如何更好地使用Prompt提升机器人回答问题的质量.md)
 * jb_code
   * [jb_code](jb_code/jb_code.md)
   * [ppt_演讲](jb_code/ppt_演讲.md)
